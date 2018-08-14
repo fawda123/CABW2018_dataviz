@@ -1,4 +1,4 @@
-# California Aquatic Bioassessment Workgroup, Oct. 23-24 2018__
+# California Aquatic Bioassessment Workgroup, Oct. 23-24 2018
 
 ## Session: Leveraging data visualization in bioassessment applications
 

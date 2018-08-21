@@ -8,6 +8,8 @@ Michelle Tang
 
 Tony Hale - interested, UAS apps, can present on the 24th
 
-Ryan Peek - will call 8/20
+Ryan Peek - backup
 
 Marcus Beck
+
+Nick Santos - emailed 8/21

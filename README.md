@@ -8,9 +8,9 @@ Effective data visualization can overcome these challenges by distilling complex
 
 ## Tentative agenda
 
-Marcus Beck, Southern California Coastal Water Research Project
+Marcus Beck, Southern California Coastal Water Research Project. *Actionable bioassessment data: Using visualization to bridge the research-management divide*
 
-Michelle Tang, California State Water Resources Control Board
+Michelle Tang and Calvin Yang, California State Water Resources Control Board. *An Analysis of Using Data Visualization to Drive Organizational Change at the Water Boards*
 
 Melanie Gogul-Prokurat, California Department of Fish and Wildlife
 

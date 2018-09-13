@@ -8,13 +8,13 @@ Effective data visualization can overcome these challenges by distilling complex
 
 ## Tentative agenda
 
-Marcus Beck, Southern California Coastal Water Research Project. *Actionable bioassessment data: Using visualization to bridge the research-management divide*
+Marcus Beck, Southern California Coastal Water Research Project, *Actionable bioassessment data: Using visualization to bridge the research-management divide*
 
-Michelle Tang and Calvin Yang, California State Water Resources Control Board. *An Analysis of Using Data Visualization to Drive Organizational Change at the Water Boards*
+Michelle Tang and Calvin Yang, California State Water Resources Control Board, *An Analysis of Using Data Visualization to Drive Organizational Change at the Water Boards*
 
-Melanie Gogul-Prokurat, California Department of Fish and Wildlife. *Areas of Conservation Emphasis (ACE): a CDFW analysis and visualization of map-based biodiversity and conservation data*
+Melanie Gogul-Prokurat, California Department of Fish and Wildlife, *Areas of Conservation Emphasis (ACE): a CDFW analysis and visualization of map-based biodiversity and conservation data*
 
 Pete Kauhanen, San Francisco Estuary Institute, *Rapid Assessment at Scale: Remote-Sensing Tools for Timely Detection of Human and Wildlife Health Hazards*
 
-Casey O'Hara, National Center for Ecological Analysis and Synthesis
+Casey O'Hara, National Center for Ecological Analysis and Synthesis, *Open science for better collaborative science*
 	

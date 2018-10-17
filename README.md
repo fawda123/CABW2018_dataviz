@@ -6,15 +6,15 @@ Bioassessment indices have been sufficiently developed in California to allow co
 
 Effective data visualization can overcome these challenges by distilling complex information in the context of user needs.  Static or dynamic approaches to viewing data can provide a vehicle for translating an application to a specific context.  This session will explore the range of possibilities for how data visualization can be leveraged to facilitate the use of bioassessment data in decision-making.  Newly-developing applications in California will be presented to demonstrate proofs of concept from diverse fields of resource management.  Overall, this session will advocate for more widespread use of data visualization methods in bioassessment and empower others to bridge the gap between method and application.
 
-## Tentative agenda
+## Agenda
 
-Marcus Beck, Southern California Coastal Water Research Project, *Actionable bioassessment data: Using visualization to bridge the research-management divide*
+__2:50-3:05__ Marcus Beck, Southern California Coastal Water Research Project, *Actionable bioassessment data: Using visualization to bridge the research-management divide*
 
-Michelle Tang and Calvin Yang, California State Water Resources Control Board, *An Analysis of Using Data Visualization to Drive Organizational Change at the Water Boards*
+__3:05-3:20__ Michelle Tang and Calvin Yang, California State Water Resources Control Board, *An analysis of using data visualization to drive organizational change at the water boards*
 
-Melanie Gogul-Prokurat, California Department of Fish and Wildlife, *Areas of Conservation Emphasis (ACE): a CDFW analysis and visualization of map-based biodiversity and conservation data*
+__3:20-3:35__ Melanie Gogul-Prokurat, California Department of Fish and Wildlife, *Areas of Conservation Emphasis (ACE): a CDFW analysis and visualization of map-based biodiversity and conservation data*
 
-Pete Kauhanen, San Francisco Estuary Institute, *Rapid Assessment at Scale: Remote-Sensing Tools for Timely Detection of Human and Wildlife Health Hazards*
+__3:35-3:50__ Lawrence Sim, San Francisco Estuary Institute, *Data visualization for response: Automated remote-sensing tools for timely detection of human and wildlife health hazards*
 
-Casey O'Hara, National Center for Ecological Analysis and Synthesis, *Open science for better collaborative science*
+__3:50-4:05__ Casey O'Hara, National Center for Ecological Analysis and Synthesis, *Open science for better collaborative science*
 	
